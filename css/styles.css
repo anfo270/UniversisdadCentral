@@ -10837,3 +10837,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.scrollmenu{
+  display: flex;
+  overflow-x: auto;
+  width: auto;
+  height: auto;
+}
